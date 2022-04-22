@@ -1,0 +1,2 @@
+11.	Programar: Para la frase anterior ordenar cada una de las palabras de la forma más rápida que conozcas. 
+De forma que para la frase: “hortelano del perro El” -> “aehlnoort del eoprr el”.  Comenta la solución.
